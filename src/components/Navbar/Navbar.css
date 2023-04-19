@@ -1,0 +1,23 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    height: 14vh;
+    background-color: rgb(100, 70, 157);
+}
+
+.navbar-logo {
+    justify-self: start;
+    margin-left: 18px;
+    color: rgb(9, 9, 9);
+    margin-top: 3vh;
+    cursor: pointer;
+}
+
+.Button {
+    font-size: 20px;
+    margin-right: 44px;
+    margin-top: 4vh;
+    cursor: context-menu;
+    text-decoration: none;
+    position: center;   
+}
